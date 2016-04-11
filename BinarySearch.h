@@ -1,4 +1,11 @@
-//这是一个二分查找的实际样本
+
+/*
+*   完成了整形数组的二分查找
+*   number 被查找的元素
+*   a 数组指针
+*   end 数组长度
+*   2016-04-11 21:27:39
+*/
 
 int BinarySearch(int number, int *a,int end)
 {
